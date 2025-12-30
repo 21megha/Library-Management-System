@@ -1,0 +1,7 @@
+| ISBN | Title             | Author            | Genre                | Availability |
+| ---- | ----------------- | ----------------- | -------------------- | ------------ |
+| B101 | Java Programming  | James Gosling     | Programming          | Available    |
+| B102 | Data Structures   | Mark Allen Weiss  | Computer Science     | Available    |
+| B103 | Clean Code        | Robert C. Martin  | Software Engineering | Available    |
+| B104 | Operating Systems | Silberschatz      | Computer Science     | Available    |
+| B105 | Database Systems  | Elmasri & Navathe | Databases            | Available    |
