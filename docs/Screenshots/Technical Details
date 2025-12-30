@@ -1,0 +1,19 @@
+The project follows a layered object-oriented architecture, separating user interface, business logic, and data model layers.
+
+LibrarySystem handles user interaction through a menu-driven console interface.
+
+Library manages core operations such as adding books, registering members, borrowing, returning, and searching books.
+
+Book and Member classes represent real-world entities with private fields and public methods, ensuring proper encapsulation.
+
+Java ArrayList is used to store books, members, and borrowed books, allowing dynamic and flexible data management.
+
+Linear search algorithms are implemented for finding books and members based on ISBN, title, or author.
+
+Validation rules ensure that books can only be borrowed if available and returned only by the borrowing member.
+
+The system uses OOP principles such as encapsulation, abstraction, and modularity to keep the code clean and maintainable.
+
+Time complexity for most operations is O(n) due to list traversal, which is acceptable for small to medium datasets.
+
+The design is scalable and can be enhanced with database integration, GUI, or web-based interfaces in the future.
